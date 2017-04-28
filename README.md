@@ -18,7 +18,11 @@
 
 GitPitch is a service that turns **[PITCHME.md](https://gitpitch.com/#gitpitch-pitchme-markdown)** markdown into online and offline, interactive slideshows. You can use it to promote, pitch or present anything from designs and best practices, to code snippets and complete frameworks.
 
+<<<<<<< HEAD
 Each slideshow presentation is made instantly available online just as soon as you git-commit and push **PITCHME.md** on any branch within a public [GitHub, GitLab or Bitbucket](https://github.com/gitpitch/gitpitch/wiki/Git-Repo-Services) repo.
+=======
+GitPitch is a service that turns **PITCHME.md** markdown into online, interactive slideshows.
+>>>>>>> parent of b5d9897... Updated README.
 
 ![URL](images/gp-url.jpg)
 
@@ -28,8 +32,12 @@ GitPitch is an open source project so you can fork, clone, and modify the source
 
 If you ever find yourself needing to present a concept, design, library, integration, framework, or solution:
 
+<<<<<<< HEAD
 - To colleagues, clients or customers
 - Or at meetups or conferences
+=======
+GitPitch makes it simple for GitHub developers to pitch, promote or present their GitHub projects. No more Keynote. No more PowerPoint. Just Markdown. Then Git-Commit.
+>>>>>>> parent of b5d9897... Updated README.
 
 Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
 
